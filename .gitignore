@@ -1,0 +1,25 @@
+# Environment (API keys, secrets)
+.env
+.env.local
+*.env.*
+
+# Dependencies
+node_modules/
+
+# Build
+build/
+dist/
+.svelte-kit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
